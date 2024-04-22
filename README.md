@@ -1,6 +1,6 @@
 # AWS-Dashboard
 
-Welcome to the DNS Manager! This application is designed to provide a seamless experience for managing DNS records with the following features:
+Welcome to the AWS-Dashboard! This application is designed to provide a seamless experience for managing DNS records with the following features:
 
 - **Standardized Stack**: Built on the MERN (MongoDB, Express.js, React.js, Node.js) stack for frontend, backend, and infrastructure layers, ensuring robustness and scalability.
 
