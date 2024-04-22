@@ -1,5 +1,4 @@
-# aws-dashboard
-# DNS Manager
+# AWS-Dashboard
 
 Welcome to the DNS Manager! This application is designed to provide a seamless experience for managing DNS records with the following features:
 
